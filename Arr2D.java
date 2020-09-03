@@ -1,6 +1,6 @@
 package hey;
 import java.util.*;
-public class Arr3D 
+public class Arr2D 
 {
 	static Scanner sc = new Scanner(System.in);
 	static int r,c;
